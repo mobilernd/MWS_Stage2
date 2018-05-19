@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/",
   "devDependencies": {
+    "git-changelog": "^1.1.2",
     "gulp": "^3.9.1",
     "gulp-clean-css": "^3.9.3",
     "gulp-concat": "^2.6.1",
